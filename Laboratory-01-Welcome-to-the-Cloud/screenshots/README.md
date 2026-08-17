@@ -1,0 +1,1 @@
+Hi everyone! My name is PJ Salazar, and I’m currently a BSIT student. I chose Information Technology because I’m interested in computers, technology, and learning how things work behind the systems and applications that we use every day.
