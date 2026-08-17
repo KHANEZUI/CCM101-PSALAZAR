@@ -16,4 +16,5 @@ CCM101 – Cloud Computing
 
 ## Laboratory Activities
 
-* Laboratory 01 – Welcome to the Cloud
+* Laboratory 01 – Welcome to the
+# CCM101-PSALAZAR
